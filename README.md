@@ -5,6 +5,12 @@ window, everything on the surface. Built for a 12 GB GPU / 32 GB RAM
 machine: the transformer loads from a GGUF file, the four text encoders
 load in FP8, and CPU offload is always on.
 
+## Examples
+
+![Frame 000001 — the Aztec priestess (HiDream-I1 Dev, GGUF Q5_K_M, seed 1436394071). The model's first PC-proven frame.](examples/hidream-priestess.png)
+
+Frame 000001 — the Aztec priestess (HiDream-I1 Dev, GGUF Q5_K_M, seed 1436394071). The model's first PC-proven frame.
+
 ## Install
 
 1. Unzip anywhere.
